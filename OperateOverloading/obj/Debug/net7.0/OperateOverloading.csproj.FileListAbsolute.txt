@@ -1,0 +1,15 @@
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\bin\Debug\net7.0\OperateOverloading.exe
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\bin\Debug\net7.0\OperateOverloading.deps.json
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\bin\Debug\net7.0\OperateOverloading.runtimeconfig.json
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\bin\Debug\net7.0\OperateOverloading.dll
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\bin\Debug\net7.0\OperateOverloading.pdb
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.csproj.AssemblyReference.cache
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.AssemblyInfoInputs.cache
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.AssemblyInfo.cs
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.csproj.CoreCompileInputs.cache
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.dll
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\refint\OperateOverloading.dll
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.pdb
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\OperateOverloading.genruntimeconfig.cache
+C:\Users\dilar\source\repos\AcademyConsole\OperateOverloading\obj\Debug\net7.0\ref\OperateOverloading.dll

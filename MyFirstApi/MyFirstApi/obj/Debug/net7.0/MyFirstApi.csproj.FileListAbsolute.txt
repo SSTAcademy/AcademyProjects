@@ -1,0 +1,7 @@
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.csproj.AssemblyReference.cache
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.AssemblyInfoInputs.cache
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.AssemblyInfo.cs
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.csproj.CoreCompileInputs.cache
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dilar\source\repos\AcademyConsole\MyFirstApi\MyFirstApi\obj\Debug\net7.0\MyFirstApi.MvcApplicationPartsAssemblyInfo.cache

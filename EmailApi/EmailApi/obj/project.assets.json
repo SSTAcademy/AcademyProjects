@@ -569,11 +569,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dilar\\Desktop\\academy_project\\MyAcademyLecture\\EmailApi\\EmailApi\\EmailApi.csproj",
+      "projectUniqueName": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EmailApi\\EmailApi\\EmailApi.csproj",
       "projectName": "EmailApi",
-      "projectPath": "C:\\Users\\dilar\\Desktop\\academy_project\\MyAcademyLecture\\EmailApi\\EmailApi\\EmailApi.csproj",
+      "projectPath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EmailApi\\EmailApi\\EmailApi.csproj",
       "packagesPath": "C:\\Users\\dilar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dilar\\Desktop\\academy_project\\MyAcademyLecture\\EmailApi\\EmailApi\\obj\\",
+      "outputPath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EmailApi\\EmailApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dilar\\AppData\\Roaming\\NuGet\\NuGet.Config",

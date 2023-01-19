@@ -3,13 +3,17 @@ using Newtonsoft.Json;
 
 namespace MyFirstApi.Attributes
 {
-    public class HelpAttribute:Attribute
+
+    //Attribute için kısıtlar
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Enum | AttributeTargets.Property)]
+
+    //Attribute kod yazarken ulaşabileceğimiz kolaylıklar ve işlevsellikleri sağlar
+    public class HelpAttribute : Attribute
     {
-        public HelpAttribute(string url)
+        public HelpAttribute(string url)//mesela konuya yardımcı link
         {
             Url = url;
         }
-        [JsonProperty("url")]
         public string Url { get; set; }
     }
 }

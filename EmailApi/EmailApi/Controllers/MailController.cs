@@ -20,28 +20,31 @@ namespace EmailApi.Controllers
                 _mediator = mediator;
             }
 
-            [Route("{number}")]
-             [CheckFilter]
-            public async Task<JsonResult> GetMail(int number)
+            [HttpGet]
+        [Route("{number}")]
+        [CheckFilter]
+        public async Task<JsonResult> GetMail(int number)
+        {
+            var query = new GetMailQuery
             {
-                var query = new GetMailQuery
-                {
-                    Number = number
-                };
-                var student = await _mediator.Send(query);
-                return new JsonResult(student);
+                Number = number
+            };
+            var mail = await _mediator.Send(query);
+            return new JsonResult(mail);
 
-            }
-            public async Task<JsonResult> GetMail()
-            {
-                Database db = new Database();
-                var mails = new List<Email>();
-                mails = mails.Distinct().ToList();
-                return new JsonResult(mails);
+        }
+        [HttpGet]
+        [Route("mail")]
+        public async Task<JsonResult> GetMail()
+        {
+            Database db = new Database();
+            var mails = new List<Email>();
+            mails = mails.Distinct().ToList();
+            return new JsonResult(mails);
 
-            }
+        }
 
-            [HttpPost]
+        [HttpPost]
             public async Task<JsonResult> CreateStudent(CreateMailCommand command)
             {
                 var result = await _mediator.Send(command);
@@ -54,7 +57,7 @@ namespace EmailApi.Controllers
             [Route("filter-test/{emailAdress}")]
 
             [CheckFilter]
-            public IActionResult FilterTest(string mail)
+            public IActionResult FilterTest(string emailAdress)
             {
                 return Empty;//yapamadım
 

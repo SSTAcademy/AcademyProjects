@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OInb1SbT/91rJs5WHbCt8ZeqSnCTb8VHLazfnxLTREqT3naMvWEnVhXbAIYEZhbyPFejmNOtMEIV2YD1FTAqZQ==",
+  "dgSpecHash": "0S5oVMvy4H0M94J5YAtgqkkO3vDp9Tj4emsczCsEUbZAgm+kS8WwW245wqzCZzDXjkEkS/caZHh0nzHk1k/DjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dilar\\Desktop\\academy_project\\MyAcademyLecture\\EmailApi\\EmailApi\\EmailApi.csproj",
+  "projectFilePath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EmailApi\\EmailApi\\EmailApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dilar\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\dilar\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

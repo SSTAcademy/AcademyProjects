@@ -6,12 +6,12 @@ namespace MyFirstApi.Middlewares
     {
         private readonly RequestDelegate _requestDelegate;
 
-        public GlobalExceptionHandler(RequestDelegate requestDelegate)
+        public GlobalExceptionHandler(RequestDelegate requestDelegate)//middleware'lerde kesin olması gereken yapı =request inject=
         {
             _requestDelegate= requestDelegate;
         }
 
-        public async Task InvokeTaskAsync(HttpContext httpContext)
+        public async Task InvokeTaskAsync(HttpContext httpContext)//middleware'lerde kesin olması gereken yapı =invokeasync=
         {
             try
             {

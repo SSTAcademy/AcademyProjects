@@ -2,7 +2,7 @@
 
 namespace EmailApi.Middleware
 {
-    public class GlobalExceptionHandler
+    public class GlobalExceptionHandler//sunucuyla istemci arasında istek boyunca görev alan yapılar
     {
         private readonly RequestDelegate _request;//middleware'lerde kesin olması gereken yapı =request inject=
 
@@ -33,6 +33,7 @@ namespace EmailApi.Middleware
                 StatusCode = context.Response.StatusCode,
                 Message = exception.Message
             }));
+        
         }
 
         public class Error

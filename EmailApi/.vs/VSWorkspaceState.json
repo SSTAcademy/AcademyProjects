@@ -3,8 +3,9 @@
     "",
     "\\EmailApi",
     "\\EmailApi\\Controllers",
-    "\\EmailApi\\Linq"
+    "\\EmailApi\\Linq",
+    "\\EmailApi\\Middleware"
   ],
-  "SelectedNode": "\\EmailApi\\Controllers",
+  "SelectedNode": "\\EmailApi\\Middleware\\GlobalExceptionHandler.cs",
   "PreviewInSolutionExplorer": false
 }

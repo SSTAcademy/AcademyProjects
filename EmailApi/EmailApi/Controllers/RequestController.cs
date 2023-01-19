@@ -23,10 +23,11 @@ namespace EmailApi.Controllers
         }
 
         [HttpGet]
-        [Route("email")]//tüm mailler
+        [Route("EmailList")]//tüm mailler
         public JsonResult GetStudents()
         {
             Database db = new Database();
+
             var response = new ResponseModel
             {
                 StatusCode = 200,

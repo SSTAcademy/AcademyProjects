@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mail",
+    "\\Mail\\Controllers",
+    "\\Mail\\Filter",
+    "\\Mail\\MailMediator",
+    "\\Mail\\MailMediator\\GetAllMail"
+  ],
+  "SelectedNode": "\\Mail\\MailMediator\\GetAllMail\\GetAllMailQueryHandler.cs",
+  "PreviewInSolutionExplorer": false
+}

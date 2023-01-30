@@ -1,0 +1,14 @@
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\bin\Debug\net7.0\EFCoreTutorial.Data.deps.json
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\bin\Debug\net7.0\EFCoreTutorial.Data.runtimeconfig.json
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\bin\Debug\net7.0\EFCoreTutorial.Data.dll
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\bin\Debug\net7.0\EFCoreTutorial.Data.pdb
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.csproj.AssemblyReference.cache
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.AssemblyInfoInputs.cache
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.AssemblyInfo.cs
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.csproj.CoreCompileInputs.cache
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.dll
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\refint\EFCoreTutorial.Data.dll
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.pdb
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\EFCoreTutorial.Data.genruntimeconfig.cache
+C:\Users\dilar\Desktop\academy_project\AcademyWorks\AcademyProjects\EFCoreTutorialWebApi\EFCoreTutorial.Data\obj\Debug\net7.0\ref\EFCoreTutorial.Data.dll

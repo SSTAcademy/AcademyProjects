@@ -74,16 +74,16 @@ namespace EFCoreTutorial.Data.Context
 
                 entity.HasOne(i => i.Student)
                 .WithOne(i => i.Adress)
-                .HasForeignKey<StudentAdress>(i => i.AdressId)
+                .HasForeignKey<Student>(i => i.AdressId)
                 .HasConstraintName("student_adress_student_id_fk");
 
               
             });
 
 
-            modelBuilder.Entity<Student>().Property(i => i.Id)
-                .HasColumnName("id")
-                .HasColumnType("int").IsRequired();
+            //modelBuilder.Entity<Student>().Property(i => i.Id)
+            //    .HasColumnName("id")
+            //    .HasColumnType("int").IsRequired();
 
             base.OnModelCreating(modelBuilder);
         }

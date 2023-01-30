@@ -113,9 +113,9 @@ namespace EFCoreTutorial.WebApi.Controllers
         public async Task<IActionResult> Update()
         {
             var student = await applicationDbContext.Students.FirstOrDefaultAsync();
-            
-            student.FirstName="Dilara",
-            student.LastName="Karaduman",
+
+            student.FirstName = "Dilara";
+            student.LastName = "Karaduman";
             await applicationDbContext.SaveChangesAsync();
             return Ok(student);
         }

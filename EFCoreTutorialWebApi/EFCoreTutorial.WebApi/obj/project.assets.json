@@ -1134,10 +1134,21 @@
           }
         }
       },
+      "EFCoreTutorial.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/EFCoreTutorial.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCoreTutorial.Common.dll": {}
+        }
+      },
       "EFCoreTutorial.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "EFCoreTutorial.Common": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.2"
         },
@@ -3633,6 +3644,11 @@
         "version.txt"
       ]
     },
+    "EFCoreTutorial.Common/1.0.0": {
+      "type": "project",
+      "path": "../EFCoreTutorial.Common/EFCoreTutorial.Common.csproj",
+      "msbuildProject": "../EFCoreTutorial.Common/EFCoreTutorial.Common.csproj"
+    },
     "EFCoreTutorial.Data/1.0.0": {
       "type": "project",
       "path": "../EFCoreTutorial.Data/EFCoreTutorial.Data.csproj",
@@ -3641,6 +3657,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "EFCoreTutorial.Common >= 1.0.0",
       "EFCoreTutorial.Data >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.1",
       "Swashbuckle.AspNetCore >= 6.4.0"
@@ -3673,6 +3690,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Common\\EFCoreTutorial.Common.csproj": {
+              "projectPath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Common\\EFCoreTutorial.Common.csproj"
+            },
             "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj": {
               "projectPath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Data\\EFCoreTutorial.Data.csproj"
             }

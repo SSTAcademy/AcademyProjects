@@ -1132,6 +1132,16 @@
             "rid": "win"
           }
         }
+      },
+      "EFCoreTutorial.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/EFCoreTutorial.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EFCoreTutorial.Common.dll": {}
+        }
       }
     }
   },
@@ -3452,10 +3462,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "EFCoreTutorial.Common/1.0.0": {
+      "type": "project",
+      "path": "../EFCoreTutorial.Common/EFCoreTutorial.Common.csproj",
+      "msbuildProject": "../EFCoreTutorial.Common/EFCoreTutorial.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "EFCoreTutorial.Common >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.2",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.2"
@@ -3487,7 +3503,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Common\\EFCoreTutorial.Common.csproj": {
+              "projectPath": "C:\\Users\\dilar\\Desktop\\academy_project\\AcademyWorks\\AcademyProjects\\EFCoreTutorialWebApi\\EFCoreTutorial.Common\\EFCoreTutorial.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
